@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp1019_IntentBack</string>
+    <string name="textViewFirst">First View</string>
+    <string name="buttonFirst">to Second</string>
+    <string name="textViewSecond">Second View</string>
+    <string name="buttonSecond">to Third</string>
+    <string name="textViewThird">Third View</string>
+    <string name="buttonThird">to First</string>
+</resources>
